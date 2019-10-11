@@ -19,5 +19,6 @@ Requirements:
    - CSS
    - Javascript
    - Jasmine (JavaScript testing framework)
+   - DevTools
    - BDD (Behavior Driven Development)
    - TDD (Test Driven Development)
