@@ -23,3 +23,17 @@ Requirements:
    - BDD (Behavior Driven Development)
    - TDD (Test Driven Development)
    - MVC architecture (Model-View-Controller)
+
+#
+
+### To see project online click the link below:
+
+### [https://marcinkopka.github.io/OpenClassrooms-Project-8](https://marcinkopka.github.io/OpenClassrooms-Project-8)
+
+### To see competitors project click the link below:
+
+### [http://todolistme.net](http://todolistme.net)
+
+### To see documentation (and audits) click Wiki tab or click the link below:
+
+### [https://github.com/marcinkopka/OpenClassrooms-Project-8/wiki](https://github.com/marcinkopka/OpenClassrooms-Project-8/wiki)
