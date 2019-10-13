@@ -22,3 +22,4 @@ Requirements:
    - DevTools
    - BDD (Behavior Driven Development)
    - TDD (Test Driven Development)
+   - MVC architecture (Model-View-Controller)
